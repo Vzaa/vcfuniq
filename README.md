@@ -1,2 +1,2 @@
 # vcfuniq
-`./vcfuniq.py ../00001.vcf out.vcf`
+`./vcfuniq.py 00001.vcf out.vcf`
